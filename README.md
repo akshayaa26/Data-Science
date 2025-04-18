@@ -1,6 +1,8 @@
 # Data-Science-SGPA CALCULATION
 
 
+The project involved retrieving and processing data from a CSV file, extracting relevant details, integrating credit-based weightage, and efficiently computing SGPA.
+
 
 ![Screenshot (306)](https://github.com/user-attachments/assets/eacaeaf7-f55c-43f8-964d-95e215d6af4a)
 ![Screenshot (304)](https://github.com/user-attachments/assets/73732e2e-51be-4fa4-8b9d-a224dceed83b)
